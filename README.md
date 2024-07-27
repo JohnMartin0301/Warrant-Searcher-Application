@@ -1,7 +1,7 @@
 # Warrant Searcher Application
 
 ## Overview
-The Warrant Searcher Application is a powerful tool designed to help users search for specific warrant-related information within a collection of PDF, Scanned PDF, and Word documents. The application utilizes OCR (Optical Character Recognition) to scan documents for specific keywords and extracts relevant information.
+The Warrant Searcher Application is a powerful tool developed using Python, and is designed to help users search for specific warrant-related information within a collection of PDF, Scanned PDF, and Word documents. The application utilizes OCR (Optical Character Recognition) to scan documents for specific keywords and extracts relevant information.
 
 ## Features
 - **Document Search** : Search for warrants based on criteria such as Case Number, Nature of Case, Name of Court, Subject/Accused, and Address/Location.
